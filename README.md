@@ -1,28 +1,19 @@
-![@micro-fe][logo]
-
-![Version](https://img.shields.io/npm/v/@micro-fe)
-![Downloads](https://img.shields.io/npm/dt/@micro-fe)
-![Build](https://img.shields.io/bitbucket/pipelines/micro-fe/master)
-![License](https://img.shields.io/npm/l/@micro-fe)
+![@micro-fe][header]
 
 # 📦 @micro-fe
 
 This project is a curated collection of NPM initializers for generating Micro-frontends
 and micro-frontend structural patterns.
 
-* [💼 Getting Started](#markdown-header-getting-started)
-  * [📚 Prerequisites](#markdown-header-prerequisites)
-  * [📲 Installing](#markdown-header-installing)
-* [🛠 Testing](#markdown-header-testing)
-  * [🔁 E2E](#markdown-header-e2e)
-  * [🛁 Static Analysis](#markdown-header-static-analysis)
-* [🛥 Deployment](#markdown-header-deployment)
-* [🧾 Important Dependencies](#markdown-header-important-dependencies)
-* [🙌🏼 Adding Banners](#markdown-header-adding-banners)
-* [🏷 Versioning](#markdown-header-versioning)
-* [📜 Authors](#markdown-header-authors)
-* [📄 License](#markdown-header-license)
-* [📯 Acknowledgments](#markdown-header-acknowledgments)
+- [📦 @micro-fe](#%f0%9f%93%a6-micro-fe)
+  - [💼 Getting Started](#%f0%9f%92%bc-getting-started)
+    - [📚 Prerequisites](#%f0%9f%93%9a-prerequisites)
+    - [📲 Installing](#%f0%9f%93%b2-installing)
+  - [🛥 Deployment](#%f0%9f%9b%a5-deployment)
+  - [🧾 Project Dependencies](#%f0%9f%a7%be-project-dependencies)
+  - [🏷 Versioning](#%f0%9f%8f%b7-versioning)
+  - [📜 Authors](#%f0%9f%93%9c-authors)
+  - [📄 License](#%f0%9f%93%84-license)
 
 ## 💼 Getting Started
 
@@ -41,8 +32,8 @@ npm init @micro-fe
 
 What things you need to install the software and how to install them
 
-* Node v12+
-* NPM v6+
+- Node v12+
+- NPM v6+
 
 ### 📲 Installing
 
@@ -66,22 +57,22 @@ npm publish
 
 ## 🧾 Project Dependencies
 
-* [TypeScript](https://www.typescriptlang.org/) - Implementation language
-* [NPM](https://www.npmjs.com/) - Dependency Management
+- [TypeScript](https://www.typescriptlang.org/) - Implementation language
+- [NPM](https://www.npmjs.com/) - Dependency Management
 
 ## 🏷 Versioning
 
 I use [SemVer](http://semver.org/) for versioning. For the versions available,
-see the [tags on this repository](https://github.com/RobHameetman/packages/tags/).
+see the [tags on this repository](https://github.com/RobHameetman/micro-fe/tags/).
 
 ## 📜 Authors
 
-* **Robert Hameetman** - *<engineering@robhameetman.com>*
+- **Robert Hameetman** - _<engineering@robhameetman.com>_
 
-See also the list of [contributors](https://github.com/RobHameetman/packages/graphs/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/RobHameetman/micro-fe/graphs/contributors) who participated in this project.
 
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-[logo]: /.github/logo.png "@micro-fe"
+[header]: /.github/readme-root.png '@micro-fe'
